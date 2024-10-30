@@ -1,7 +1,3 @@
-Obrigado pela imagem da estrutura de pastas. Aqui está o README atualizado considerando essa estrutura:
-
----
-
 # Monitoramento de Preços do Kindle na Amazon
 
 ## Descrição
@@ -48,7 +44,3 @@ Este projeto realiza a automação de navegação na Amazon para coletar o preç
 2. O preço do produto é extraído e armazenado na planilha Excel (`monitoramentoKindle.xlsx`), juntamente com a data da coleta.
 3. A cada execução, o gráfico é atualizado com a variação de preços ao longo do tempo.
 4. Em caso de erro, uma captura de tela é salva no arquivo `error.png`.
-
----
-
-Gostou dessa versão do README? Se estiver tudo certo, posso gerar o arquivo para você.
